@@ -1,0 +1,18 @@
+.pokecardContainer {
+  width: 90%;
+}
+.pokecardContainer-cards {
+  display: flex;
+  justify-content: center;
+}
+.pokecardContainerHeading {
+  margin: 15px;
+}
+.winner{
+  border: 2px solid green;
+  border-radius: 5px;
+  color: green;
+  width:80%;
+  margin: 10px auto;
+  background-color: greenyellow;
+}

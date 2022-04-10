@@ -1,0 +1,25 @@
+.pokecard{
+background-color: rgb(219, 215, 215);
+width: 17%;
+padding: 5px;
+margin: 10px;
+border-radius: 10px;
+height: 30vh;
+}
+.pokecard-name h3{
+    color: rgb(9, 9, 238);
+    text-transform: capitalize;
+    font-weight: 700;
+    margin-bottom: 5px;
+}
+.pokecard-type{
+    margin-bottom: 0px;
+    margin-top: 5px;
+}
+.pokecard-experience{
+    margin-top: 2px;
+}
+.pokecard-avatar img{
+    width: 50%;
+    height: auto;
+}

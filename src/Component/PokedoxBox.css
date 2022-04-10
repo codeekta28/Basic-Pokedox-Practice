@@ -1,0 +1,16 @@
+.pokedoxBox{
+    background-color: rgb(250, 248, 248);
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+    margin: auto;
+    justify-content: center;
+    height: 80vh;
+    align-items: center;
+    border-radius: 7px;
+}
+.pokedoxBox-heading{
+    color: gray;
+    text-transform: capitalize;
+    font-size: 2rem;
+}
